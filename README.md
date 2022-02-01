@@ -1,2 +1,2 @@
 # host.github.io
-static sit
+Static site
